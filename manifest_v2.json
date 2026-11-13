@@ -1,0 +1,73 @@
+{
+  "item": {
+    "id": "com.jpf.wrist.cloudtower",
+    "restype": "quick_app",
+    "name": "云端筑梦",
+    "description": "对准塔顶，轻点落下一层。在琥珀公寓和翡翠天台挑战无尽叠楼，连续稳定落层可提高得分倍率。翡翠天台在达到 8 层后解锁，并以更窄的楼层考验落点。两张地图分别保存最高层数与最高分。",
+    "preview": [
+      "media/preview-01-pro-home.png",
+      "media/preview-02-pro-game.png",
+      "media/preview-03-band9-game.png",
+      "media/preview-04-band10-11-game.png",
+      "media/preview-05-redmi5-6-game.png",
+      "media/preview-06-redmi5-6-result.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "Jip79078",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-redmi5-6-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-redmi5-6-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-pro-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-band9-1.0.0.rpk",
+      "versionCode": 12
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/cloud-tower-pro-1.0.0.rpk",
+      "versionCode": 12
+    }
+  },
+  "ext": {}
+}
