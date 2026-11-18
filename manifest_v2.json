@@ -24,49 +24,49 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-redmi5-6-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-redmi5-6-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-redmi5-6-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-redmi5-6-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-pro-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-pro-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-band10-11-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-band10-11-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-band9-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-band9-1.0.1.rpk",
+      "versionCode": 13
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/cloud-tower-pro-1.0.0.rpk",
-      "versionCode": 12
+      "version": "1.0.1",
+      "file_name": "downloads/cloud-tower-pro-1.0.1.rpk",
+      "versionCode": 13
     }
   },
   "ext": {}
